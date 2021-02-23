@@ -1,0 +1,86 @@
+@media screen and (max-width:640px){
+    
+    .item h3{
+        font-size: 28px;
+    }
+    .item h1{
+        font-size: 55px;
+    }
+    .item h4{
+        font-size: 25px;
+    }
+    .about_icon {
+        max-width: 292px;
+        margin: 30px auto;
+    }
+    .services_icon{
+        max-width: 292px;
+        margin: 30px auto;
+    }
+    .our_team_content{
+        max-width: 390px;
+        margin: 0 auto;
+    }
+    .element-item{
+        width: 50%;
+    }
+    .isotope_overlay h2{
+        margin-top: 125px;
+    }
+    .pricing{
+        max-width: 292px;
+        margin: 30px auto;
+    }
+    .count{
+        max-width: 292px;
+        margin: 30px auto;
+    }  
+   
+}
+
+
+@media screen and (max-width:480px){
+    
+    .item h3{
+        font-size: 22px;
+    }
+    .item h1{
+        font-size: 40px;
+    }
+    .item h4{
+        font-size: 19px;
+    }
+    .element-item{
+        width: 100%;
+    }
+    .isotope_overlay h2{
+        margin-top: 190px;
+    }
+    
+}
+
+
+@media screen and (max-width:320px){
+    
+    .item h3{
+        font-size: 14px;
+    }
+    .item h1{
+        font-size: 25px;
+    }
+    .item h4{
+        font-size: 12px;
+    }
+    .our_team_overlay h2{
+        font-size: 25px;
+        margin-top: 10px;
+    }
+    .our_team_overlay p{
+        font-size: 12px;
+    }
+    .isotope_overlay h2{
+        margin-top: 110px;
+        font-size: 30px;
+    }
+   
+}
